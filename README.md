@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center"> 🙋‍♂️ About Me: </h1>
 
-<!--
-**borys-malinowski/borys-malinowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">
 
-Here are some ideas to get you started:
+  🔭 I’m currently working on **[betterTelloController](https://github.com/borys-malinowski/betterTelloController)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🌱 I’m currently learning **Websocket - socket.io**
+
+  👨‍💻 All of my projects are available at **[My Github](https://github.com/borys-malinowski?tab=repositories)**
+
+  💼 Lets Connect on  **[LinkedIn](https://www.linkedin.com/in/borys-malinowski-65896b236)** 
+
+<br>
+</h4>
+
+<h2 align="center"> 🚀 Languages and 🛠️Tools:</h2>
+
+<p style="display: flex; align-items:center; justify-content:center;">
+<img src="https://img.icons8.com/color/344/typescript.png" alt="drawing" width="50" style="vertical-align:middle;margin:0px 4px"/>
+<img src="https://img.icons8.com/color/344/javascript--v1.png" alt="drawing" width=50" style="vertical-align:middle;margin:0px 5px"/>
+<img src="https://img.icons8.com/fluency/344/node-js.png" alt="drawing" width="50" style="vertical-align:middle;margin:0px 5px" />
+<img src="https://socket.io/images/logo.svg" alt="drawing" width="50" style="vertical-align:middle;margin:0px 5px"/>
+<img src="https://img.icons8.com/officel/344/react.png" alt="drawing" width="50" style="vertical-align:middle;margin:0px 5px"/>
+<img src="https://img.icons8.com/color/344/golang.png" alt="drawing" width="50"/>
+</p>
