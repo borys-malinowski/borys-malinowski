@@ -19,7 +19,7 @@
 <img src="https://img.icons8.com/color/344/typescript.png" alt="typescript" width="50" style="vertical-align:middle;margin:0px 4px"/>
 <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" width=50" style="vertical-align:middle;margin:0px 5px"/>
 <img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" width="50" style="vertical-align:middle;margin:0px 5px" />
-<img src="https://socket.io/images/logo.svg" alt="socketio" width="50" style="vertical-align:middle;margin:0px 5px"/>
+<img src="https://socket.io/images/logo-dark.svg" alt="socketio" width="50" style="vertical-align:middle;margin:0px 5px"/>
 <img src="https://img.icons8.com/officel/344/react.png" alt="react" width="50" style="vertical-align:middle;margin:0px 5px"/>
 <img src="https://img.icons8.com/color/344/golang.png" alt="golang" width="50"/>
 </p>
