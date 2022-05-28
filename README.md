@@ -16,10 +16,10 @@
 <h2 align="center"> 🚀 Languages and 🛠️Tools:</h2>
 
 <p style="display: flex; align-items:center; justify-content:center;">
-<img src="https://img.icons8.com/color/344/typescript.png" alt="drawing" width="50" style="vertical-align:middle;margin:0px 4px"/>
-<img src="https://img.icons8.com/color/344/javascript--v1.png" alt="drawing" width=50" style="vertical-align:middle;margin:0px 5px"/>
-<img src="https://img.icons8.com/fluency/344/node-js.png" alt="drawing" width="50" style="vertical-align:middle;margin:0px 5px" />
-<img src="https://socket.io/images/logo.svg" alt="drawing" width="50" style="vertical-align:middle;margin:0px 5px"/>
-<img src="https://img.icons8.com/officel/344/react.png" alt="drawing" width="50" style="vertical-align:middle;margin:0px 5px"/>
-<img src="https://img.icons8.com/color/344/golang.png" alt="drawing" width="50"/>
+<img src="https://img.icons8.com/color/344/typescript.png" alt="typescript" width="50" style="vertical-align:middle;margin:0px 4px"/>
+<img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" width=50" style="vertical-align:middle;margin:0px 5px"/>
+<img src="https://img.icons8.com/fluency/344/node-js.png" alt="nodejs" width="50" style="vertical-align:middle;margin:0px 5px" />
+<img src="https://socket.io/images/logo.svg" alt="socketio" width="50" style="vertical-align:middle;margin:0px 5px"/>
+<img src="https://img.icons8.com/officel/344/react.png" alt="react" width="50" style="vertical-align:middle;margin:0px 5px"/>
+<img src="https://img.icons8.com/color/344/golang.png" alt="golang" width="50"/>
 </p>
