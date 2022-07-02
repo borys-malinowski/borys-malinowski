@@ -4,7 +4,7 @@
 
   🔭 I’m currently working on **[betterTelloController](https://github.com/borys-malinowski/betterTelloController)**
 
-  🌱 I’m currently learning **TypeScript**
+  🌱 I’m currently learning **puppeteer js**
 
   👨‍💻 All of my projects are available at **[My Github](https://github.com/borys-malinowski?tab=repositories)**
 
