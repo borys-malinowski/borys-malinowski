@@ -2,9 +2,9 @@
 
 <h4 align="center">
 
-  🔭 I’m currently working on **[betterTelloController](https://github.com/borys-malinowski/betterTelloController)**
+  🔭 I’m currently working on **[ZSB Rybnik](https://github.com/ZSBRybnik/ZSB)**
 
-  🌱 I’m currently learning **puppeteer js**
+  🌱 I’m currently learning **Elecron**
 
   👨‍💻 All of my projects are available at **[My Github](https://github.com/borys-malinowski?tab=repositories)**
 
