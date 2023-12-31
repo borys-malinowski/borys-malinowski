@@ -2,7 +2,7 @@
 
 <h4 align="center">
 
-  🔭 I’m currently working on **[ZSB Rybnik](https://github.com/ZSBRybnik/ZSB)**
+  🔭 I’m currently working on **[Rust Wallet](https://github.com/borys-malinowski/wallet)**
 
   🌱 I’m currently learning **Rust**
 
